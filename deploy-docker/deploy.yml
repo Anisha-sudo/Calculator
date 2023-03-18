@@ -1,0 +1,24 @@
+---
+- name: Pull docker image of Calculator
+  hosts: all
+  tasks:
+
+    - name: Start docker service
+      service:
+        name: docker
+        state: started
+
+    - name: pull docker image
+      shell: docker pull docker.io/anisha0987/spe_mini_project
+
+    - name: Get container info
+      docker_container_info:
+        name: calculator
+      register: result
+
+    - name: Remove container if exists
+      shell: docker stop calculator && docker rm calculator
+      when: result.exists
+
+    - name: running container
+      shell: docker run -it --name calculator -d anisha0987/spe_mini_project
