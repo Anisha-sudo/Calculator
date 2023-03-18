@@ -1,0 +1,25 @@
+2023-03-18 23:15:26.263 [main] INFO  com.spe.project.Calculator - [NATURAL LOG] - 0
+2023-03-18 23:15:26.265 [main] INFO  com.spe.project.Calculator - [RESULT - NATURAL LOG] - -Infinity
+2023-03-18 23:15:26.266 [main] INFO  com.spe.project.Calculator - [NATURAL LOG] - 1
+2023-03-18 23:15:26.266 [main] INFO  com.spe.project.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-18 23:15:26.267 [main] INFO  com.spe.project.Calculator - [POWER of2RAISED TO]3
+2023-03-18 23:15:26.268 [main] INFO  com.spe.project.Calculator - [RESULT - POWER] - 8.0
+2023-03-18 23:15:26.269 [main] INFO  com.spe.project.Calculator - [SQ ROOT] - 16
+2023-03-18 23:15:26.269 [main] INFO  com.spe.project.Calculator - [RESULT - SQ ROOT] - 4.0
+2023-03-18 23:15:26.269 [main] INFO  com.spe.project.Calculator - [SQ ROOT] - 36
+2023-03-18 23:15:26.269 [main] INFO  com.spe.project.Calculator - [RESULT - SQ ROOT] - 6.0
+2023-03-18 23:15:26.269 [main] INFO  com.spe.project.Calculator - [SQ ROOT] - 64
+2023-03-18 23:15:26.269 [main] INFO  com.spe.project.Calculator - [RESULT - SQ ROOT] - 8.0
+2023-03-18 23:15:26.270 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 5
+2023-03-18 23:15:26.270 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 4
+2023-03-18 23:15:26.270 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 3
+2023-03-18 23:15:26.270 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 2
+2023-03-18 23:15:26.270 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 1
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 0
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 6
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 5
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 4
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 3
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 2
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 1
+2023-03-18 23:15:26.271 [main] INFO  com.spe.project.Calculator - [FACTORIAL] - 0
