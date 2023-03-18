@@ -21,4 +21,4 @@
       when: result.exists
 
     - name: running container
-      shell: docker run -it --name calculator -d anisha0987/spe_mini_project
+      shell: docker run -it --name calculator -d  anisha0987/spe_mini_project
