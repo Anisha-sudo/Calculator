@@ -1,6 +1,8 @@
 ---
 - name: Pull docker image of Calculator
   hosts: all
+  vars:
+          ansible_python_interpreter: /usr/bin/python3
   tasks:
 
     - name: Start docker service
@@ -21,4 +23,4 @@
       when: result.exists
 
     - name: running container
-      shell: docker run -it --name calculator -d  anisha0987/spe_mini_project
+      shell: docker run -it --name calculator -d anisha0987/spe_mini_project
